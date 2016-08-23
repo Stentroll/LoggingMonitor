@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DicomBackupMonitor", "DicomBackupMonitor.csproj", "{187E70CE-9C17-4AAB-B4F5-73F82192EFCA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingMonitor", "LoggingMonitor.csproj", "{187E70CE-9C17-4AAB-B4F5-73F82192EFCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
